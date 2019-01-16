@@ -1,3 +1,5 @@
 /Intro_ML_Coders/tmp/*
 /Intro_ML_Coders/datasets/*
 /Intro_Stat_Learning/datasets/*
+/Intro_Stat_Learning/.ipynb_checkpoints/*
+/HO_SKLearn_TF/datasets/*
