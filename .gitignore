@@ -1,5 +1,8 @@
 /Intro_ML_Coders/tmp/*
 /Intro_ML_Coders/datasets/*
+/Intro_ML_Coders/fastai/*
+/Intro_ML_Coders/*.zip
+/Intro_ML_Coders/.ipynb_checkpoints/*
 /Intro_Stat_Learning/datasets/*
 /Intro_Stat_Learning/.ipynb_checkpoints/*
 /HO_SKLearn_TF/datasets/*
