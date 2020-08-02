@@ -8,3 +8,4 @@
 /HO_SKLearn_TF/datasets/*
 /HO_SKLearn_TF/.ipynb_checkpoints/*
 /HO_SKLearn_TF/*.mat
+/spark_python_handson/datasets/*
