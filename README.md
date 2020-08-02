@@ -12,5 +12,6 @@ The list of books/courses/topics in the repo, along with a short explanation wha
 2. [Course] [Introduction to Machine Learning for Coders](https://course.fast.ai/ml.html) - Notes and bits of code.
 3. [Book] [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) - Solve the exercises for each chapter.
 4. [Course] [Deep Learning Ai]() - The notebooks from the chapters that presented an interest.
-5. [Course] [Spark Data Analytics]() - Various notebooks and exercises from the course.
+5. [Course] [Spark Data Analytics]() - Various notebooks and exercises from the course
+6. [Course] [Spark Python Hands On]() - Various notebooks with the code-alongs..
 Any other topic related to the subject will be added here.
